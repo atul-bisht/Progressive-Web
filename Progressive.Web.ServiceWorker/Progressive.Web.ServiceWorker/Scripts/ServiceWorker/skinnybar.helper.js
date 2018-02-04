@@ -1,0 +1,1 @@
+﻿console.log('Skinny bar helper loaded....');
